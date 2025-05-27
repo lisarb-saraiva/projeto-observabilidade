@@ -3,6 +3,7 @@
 ## Integrantes
 - Antônio Lisarb Cordeiro Saraiva
 - Karyna Rodrigues de Sousa
+- Ruan Bruno Oliveira da Silva
 
 ## Descrição
 Este projeto tem como objetivo criar uma API simples que expõe métricas para Prometheus e visualizá-las no Grafana.
